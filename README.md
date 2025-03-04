@@ -20,5 +20,4 @@
 
 
 
-[![Hitakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelhitakshi28)](https://github.com/anuraghazra/github-readme-stats)
-
+![Hitakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelhitakshi28&show_icons=true&theme=radical)
