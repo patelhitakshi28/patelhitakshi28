@@ -4,9 +4,8 @@
 
 🌟 About Me
 🔹 Passionate about Data Analytics, Machine Learning, and Cloud Technologies <br/>
-🔹 Exploring AI, Big Data, and Automation <br/>
-🔹 Strong background in Python, SQL, Power BI, and AWS <br/>
-🔹 Interested in IoT, Sensors, and Autonomous Systems <br/>
+🔹 Exploring AI, Big Data, AWS and Automation <br/>
+🔹 Strong background in Python, SQL, Power BI <br/>
 
 🔥 What I'm Working On <br/>
 📊 Enhancing my Data Science & Machine Learning skills <br/>
@@ -17,7 +16,6 @@
 💡 Love solving real-world tech problems with data-driven solutions <br/>
 🎯 Always open to collaborations and learning from the community <br/>
 💬 Let's connect and talk about Tech, Innovation, and AI <br/>
-
 
 
 ![Hitakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelhitakshi28&show_icons=true&theme=radical)
