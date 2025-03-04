@@ -2,7 +2,7 @@
 
 🚀 Master’s Student in Software Engineering | 🎓 Hof University of Applied Sciences, Bavaria, Germany
 
-🌟 About Me
+🌟 About Me <br/>
 🔹 Passionate about Data Analytics, Machine Learning, and Cloud Technologies <br/>
 🔹 Exploring AI, Big Data, AWS and Automation <br/>
 🔹 Strong background in Python, SQL, Power BI <br/>
